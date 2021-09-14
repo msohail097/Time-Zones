@@ -1,0 +1,4 @@
+#Wed Sep 15 01:03:50 PKT 2021
+base.0=D\:\\new timezons\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

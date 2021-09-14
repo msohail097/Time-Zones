@@ -1,0 +1,4 @@
+# Referenced at D:\flutter-timezone\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\x86_64\AndroidManifest.xml:22
+-keep class beeitstudio.com.flutter_timezone.MainActivity { <init>(...); }
+# Referenced at D:\flutter-timezone\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\x86_64\AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
